@@ -1,0 +1,24 @@
+baseURL = "https://phuctk93.github.io"
+languageCode = "en-us"
+title = "phuctk93 - Full stack Developer, Desiner for web, app and game."
+theme = "pcv"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "blog section"
+    url = "/blog/"
+    weight = -110
+	[[menu.main]]
+		identifier = "projects"
+    name = "Projects"
+    title = "Projects section"
+    url = "/projects/"
+    weight = -100
+
+[params]
+  logo = "https://lh3.googleusercontent.com/-GnT6bfoW5K8/AAAAAAAAAAI/AAAAAAAACI8/ZovTJDEaheE/s120-p-rw-no/photo.jpg"
+  email = "phuctk93@gmail.com"
+  github = "https://phuctk93.github.io"
+  facebook = "https://fb.me/phuctk93"
