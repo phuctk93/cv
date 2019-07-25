@@ -18,7 +18,10 @@ theme = "pcv"
     weight = -100
 
 [params]
-  logo = "https://lh3.googleusercontent.com/-GnT6bfoW5K8/AAAAAAAAAAI/AAAAAAAACI8/ZovTJDEaheE/s120-p-rw-no/photo.jpg"
+  logo = "/img/logo_p.svg"
   email = "phuctk93@gmail.com"
   github = "https://phuctk93.github.io"
   facebook = "https://fb.me/phuctk93"
+  twitter = "https://twitter/bphuc"
+  youtube = "https://youtube.com/bphuc93"
+  linkedin = "https://www.linkedin.com/in/bphuc/"
