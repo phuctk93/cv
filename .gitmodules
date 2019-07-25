@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:phuctk93/phuctk93.github.io.git
 	branch = master
+[submodule "themes/pcv"]
+	path = themes/pcv
+	url = git@github.com:phuctk93/pcv.git
+	branch = master
