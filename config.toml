@@ -19,6 +19,7 @@ theme = "pcv"
 
 [params]
   logo = "/img/logo_p.svg"
+  author = "phuctk93"
   email = "phuctk93@gmail.com"
   github = "https://phuctk93.github.io"
   facebook = "https://fb.me/phuctk93"
